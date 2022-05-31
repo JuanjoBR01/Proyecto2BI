@@ -1,0 +1,299 @@
+;llave_indicador;subcategoria;nombre_indicador
+0;0;Población de hombres;Población de hombres de 00-04
+1;1;Población de hombres;Población de hombres de  05-09
+2;2;Población de hombres;Población de hombres de  10-14
+3;3;Población de hombres;Población de hombres de  15-19
+4;4;Población de hombres;Población de hombres de  20-24
+5;5;Población de hombres;Población de hombres de  25-29
+6;6;Población de hombres;Población de hombres de  30-34
+7;7;Población de hombres;Población de hombres de  35-39
+8;8;Población de hombres;Población de hombres de  40-44
+9;9;Población de hombres;Población de hombres de  45-49
+10;10;Población de hombres;Población de hombres de  50-54
+11;11;Población de hombres;Población de hombres de  55-59
+12;12;Población de hombres;Población de hombres de  60-64
+13;13;Población de hombres;Población de hombres de  65-69
+14;14;Población de hombres;Población de hombres de  70-74
+15;15;Población de hombres;Población de hombres de  75-79
+16;16;Población de hombres;Población de hombres de 80 o más
+17;17;Población de hombres;Porcentaje de población de hombres de 00-04
+18;18;Población de hombres;Porcentaje de población de hombres de  05-09
+19;19;Población de hombres;Porcentaje de población de hombres de  10-14
+20;20;Población de hombres;Porcentaje de población de hombres de  15-19
+21;21;Población de hombres;Porcentaje de población de hombres de  20-24
+22;22;Población de hombres;Porcentaje de población de hombres de  25-29
+23;23;Población de hombres;Porcentaje de población de hombres de  30-34
+24;24;Población de hombres;Porcentaje de población de hombres de  35-39
+25;25;Población de hombres;Porcentaje de población de hombres de  40-44
+26;26;Población de hombres;Porcentaje de población de hombres de  45-49
+27;27;Población de hombres;Porcentaje de población de hombres de  50-54
+28;28;Población de hombres;Porcentaje de población de hombres de  55-59
+29;29;Población de hombres;Porcentaje de población de hombres de  60-64
+30;30;Población de hombres;Porcentaje de población de hombres de  65-69
+31;31;Población de hombres;Porcentaje de población de hombres de  70-74
+32;32;Población de hombres;Porcentaje de población de hombres de  75-79
+33;33;Población de hombres;Porcentaje de población de hombres de 80 o más
+34;34;Población de mujeres;Población de mujeres de 00-04
+35;35;Población de mujeres;Población de mujeres de  05-09
+36;36;Población de mujeres;Población de mujeres de  10-14
+37;37;Población de mujeres;Población de mujeres de  15-19
+38;38;Población de mujeres;Población de mujeres de  20-24
+39;39;Población de mujeres;Población de mujeres de  25-29
+40;40;Población de mujeres;Población de mujeres de  30-34
+41;41;Población de mujeres;Población de mujeres de  35-39
+42;42;Población de mujeres;Población de mujeres de  40-44
+43;43;Población de mujeres;Población de mujeres de  45-49
+44;44;Población de mujeres;Población de mujeres de  50-54
+45;45;Población de mujeres;Población de mujeres de  55-59
+46;46;Población de mujeres;Población de mujeres de  60-64
+47;47;Población de mujeres;Población de mujeres de  65-69
+48;48;Población de mujeres;Población de mujeres de  70-74
+49;49;Población de mujeres;Población de mujeres de  75-79
+50;50;Población de mujeres;Población de mujeres de 80 o más
+51;51;Población de mujeres;Porcentaje de población de mujeres de 00-04
+52;52;Población de mujeres;Porcentaje de población de mujeres de  05-09
+53;53;Población de mujeres;Porcentaje de población de mujeres de  10-14
+54;54;Población de mujeres;Porcentaje de población de mujeres de  15-19
+55;55;Población de mujeres;Porcentaje de población de mujeres de  20-24
+56;56;Población de mujeres;Porcentaje de población de mujeres de  25-29
+57;57;Población de mujeres;Porcentaje de población de mujeres de  30-34
+58;58;Población de mujeres;Porcentaje de población de mujeres de  35-39
+59;59;Población de mujeres;Porcentaje de población de mujeres de  40-44
+60;60;Población de mujeres;Porcentaje de población de mujeres de  45-49
+61;61;Población de mujeres;Porcentaje de población de mujeres de  50-54
+62;62;Población de mujeres;Porcentaje de población de mujeres de  55-59
+63;63;Población de mujeres;Porcentaje de población de mujeres de  60-64
+64;64;Población de mujeres;Porcentaje de población de mujeres de  65-69
+65;65;Población de mujeres;Porcentaje de población de mujeres de  70-74
+66;66;Población de mujeres;Porcentaje de población de mujeres de  75-79
+67;67;Población de mujeres;Porcentaje de población de mujeres de 80 o más
+68;68;Población desagregada por sexo;Población total de hombres
+69;69;Población desagregada por sexo;Población total de mujeres
+70;70;Población desagregada por sexo;Porcentaje población de hombres
+71;71;Población desagregada por sexo;Porcentaje población de mujeres
+72;72;Población desagregada por área;Población urbana
+73;73;Población desagregada por área;Población rural
+74;74;Población desagregada por área;Porcentaje población urbana
+75;75;Población desagregada por área;Porcentaje población rural
+76;76;Población étnica;Población indígena
+77;77;Población étnica;"Población negra; mulata o afrocolombiana"
+78;78;Población étnica;Población raizal
+79;79;Población étnica;Población rom
+80;80;Población étnica;Población palenquero
+81;81;Población étnica;Población étnica total
+82;82;Población étnica;Población de origen étnico en resguardos indígenas
+83;83;Población étnica;Porcentaje de población de origen étnico en resguardos indígenas
+84;84;Población étnica;Número de resguardos indígenas en el territorio
+85;85;Información SISBEN;Total registros - Fichas
+86;86;Información SISBEN;Total registros válidos - Fichas
+87;87;Información SISBEN;Total registros - Hogares
+88;88;Información SISBEN;Total registros válidos - Hogares
+89;89;Información SISBEN;Total registros - Personas
+90;90;Información SISBEN;Total registros válidos - Personas
+91;91;Comportamiento puntaje SISBEN;Puntaje SISBEN: Mínimo - Cabecera
+92;92;Comportamiento puntaje SISBEN;Puntaje SISBEN: Máximo - Cabecera
+93;93;Comportamiento puntaje SISBEN;Puntaje SISBEN: Promedio - Cabecera
+94;94;Comportamiento puntaje SISBEN;Puntaje SISBEN: Mínimo - Centro poblado
+95;95;Comportamiento puntaje SISBEN;Puntaje SISBEN: Máximo - Centro poblado
+96;96;Comportamiento puntaje SISBEN;Puntaje SISBEN: Promedio - Centro poblado
+97;97;Comportamiento puntaje SISBEN;Puntaje SISBEN: Mínimo - Rural disperso
+98;98;Comportamiento puntaje SISBEN;Puntaje SISBEN: Máximo - Rural disperso
+99;99;Comportamiento puntaje SISBEN;Puntaje SISBEN: Promedio - Rural disperso
+100;100;Comportamiento puntaje SISBEN;Puntaje SISBEN: Mínimo - Total
+101;101;Comportamiento puntaje SISBEN;Puntaje SISBEN: Máximo - Total
+102;102;Comportamiento puntaje SISBEN;Puntaje SISBEN: Promedio - Total
+103;103;Población total por grupos quinquenales de edad;Proyección de población entre los 0 y 4 años
+104;104;Población total por grupos quinquenales de edad;Proyección de población entre los 5 y 9 años
+105;105;Población total por grupos quinquenales de edad;Proyección de población entre los 10 y 14 años
+106;106;Población total por grupos quinquenales de edad;Proyección de población entre los 15 y 19 años
+107;107;Población total por grupos quinquenales de edad;Proyección de población entre los 20 y 24 años
+108;108;Población total por grupos quinquenales de edad;Proyección de población entre los 25 y 29 años
+109;109;Población total por grupos quinquenales de edad;Proyección de población entre los 30 y 34 años
+110;110;Población total por grupos quinquenales de edad;Proyección de población entre los 35 y 39 años
+111;111;Población total por grupos quinquenales de edad;Proyección de población entre los 40 y 44 años
+112;112;Población total por grupos quinquenales de edad;Proyección de población entre los 45 y 49 años
+113;113;Población total por grupos quinquenales de edad;Proyección de población entre los 50 y 54 años
+114;114;Población total por grupos quinquenales de edad;Proyección de población entre los 55 y 59 años
+115;115;Población total por grupos quinquenales de edad;Proyección de población entre los 60 y 64 años
+116;116;Población total por grupos quinquenales de edad;Proyección de población entre los 65 y 69 años
+117;117;Población total por grupos quinquenales de edad;Proyección de población entre los 70 y 74 años
+118;118;Población total por grupos quinquenales de edad;Proyección de población entre los 75 y 79 años
+119;119;Población total por grupos quinquenales de edad;Proyección de población de 80 o más años
+120;120;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 0 y 4 años; del total de población proyectada para la entidad territorial"
+121;121;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 5 y 9 años; del total de población proyectada para la entidad territorial"
+122;122;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 10 y 14 años; del total de población proyectada para la entidad territorial"
+123;123;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 15 y 19 años; del total de población proyectada para la entidad territorial"
+124;124;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 20 y 24 años; del total de población proyectada para la entidad territorial"
+125;125;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 25 y 29 años; del total de población proyectada para la entidad territorial"
+126;126;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 30 y 34 años; del total de población proyectada para la entidad territorial"
+127;127;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 35 y 39 años; del total de población proyectada para la entidad territorial"
+128;128;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 40 y 44 años; del total de población proyectada para la entidad territorial"
+129;129;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 45 y 49 años; del total de población proyectada para la entidad territorial"
+130;130;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 50 y 54 años; del total de población proyectada para la entidad territorial"
+131;131;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 55 y 59 años; del total de población proyectada para la entidad territorial"
+132;132;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 60 y 64 años; del total de población proyectada para la entidad territorial"
+133;133;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 65 y 69 años; del total de población proyectada para la entidad territorial"
+134;134;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 70 y 74 años; del total de población proyectada para la entidad territorial"
+135;135;Población total por grupos quinquenales de edad;"Porcentaje de población entre los 75 y 79 años; del total de población proyectada para la entidad territorial"
+136;136;Población total por grupos quinquenales de edad;"Porcentaje de población de 80 o más años; del total de población proyectada para la entidad territorial"
+137;137;Población menor y mayor de edad;Porcentaje de población menores de 15 años
+138;138;Población menor y mayor de edad;Porcentaje de población de jóvenes entre 14 y 28 años
+139;139;Migración;Proyección de número de venezolanos
+140;140;Migración;Porcentaje de población migrante interna censada con respecto a la población total de cada entidad territorial
+141;141;Migración;"Porcentaje de poblacion migrante proveniente de Venezuela; del total de población proyectada para la entidad territorial"
+142;142;Migración;Hombres entre 0 y 7 años con permiso especial de permanencia (PEP)
+143;143;Migración;Hombres entre 8 y 17 años con permiso especial de permanencia (PEP)
+144;144;Migración;Hombres entre 18 y 29 años con permiso especial de permanencia (PEP)
+145;145;Migración;Hombres entre 30 y 39 años con permiso especial de permanencia (PEP)
+146;146;Migración;Hombres entre 40 y 49 años con permiso especial de permanencia (PEP)
+147;147;Migración;Hombres entre 50 y 59 años con permiso especial de permanencia (PEP)
+148;148;Migración;Hombres entre 60 y 69 años con permiso especial de permanencia (PEP)
+149;149;Migración;Hombres de 70 o más años con permiso especial de permanencia (PEP)
+150;150;Migración;Total de hombres con permiso especial de permanencia (PEP)
+151;151;Migración;Mujeres entre 0 y 7 años con permiso especial de permanencia (PEP)
+152;152;Migración;Mujeres entre 8 y 17 años con permiso especial de permanencia (PEP)
+153;153;Migración;Mujeres entre 18 y 29 años con permiso especial de permanencia (PEP)
+154;154;Migración;Mujeres entre 30 y 39 años con permiso especial de permanencia (PEP)
+155;155;Migración;Mujeres entre 40 y 49 años con permiso especial de permanencia (PEP)
+156;156;Migración;Mujeres entre 50 y 59 años con permiso especial de permanencia (PEP)
+157;157;Migración;Mujeres entre 60 y 69 años con permiso especial de permanencia (PEP)
+158;158;Migración;Mujeres de 70 o más años con permiso especial de permanencia (PEP)
+159;159;Migración;Total de mujeres con permiso especial de permanencia (PEP)
+160;160;Migración;Porcentaje de hombres entre 0 y 7 años con permiso especial de permanencia (PEP)
+161;161;Migración;Porcentaje de hombres entre 8 y 17 años con permiso especial de permanencia (PEP)
+162;162;Migración;Porcentaje de hombres entre 18 y 29 años con permiso especial de permanencia (PEP)
+163;163;Migración;Porcentaje de hombres entre 30 y 39 años con permiso especial de permanencia (PEP)
+164;164;Migración;Porcentaje de hombres entre 40 y 49 años con permiso especial de permanencia (PEP)
+165;165;Migración;Porcentaje de hombres entre 50 y 59 años con permiso especial de permanencia (PEP)
+166;166;Migración;Porcentaje de hombres entre 60 y 69 años con permiso especial de permanencia (PEP)
+167;167;Migración;Porcentaje de hombres de 70 o más años con permiso especial de permanencia (PEP)
+168;168;Migración;Porcentaje de mujeres entre 0 y 7 años con permiso especial de permanencia (PEP)
+169;169;Migración;Porcentaje de mujeres entre 8 y 17 años con permiso especial de permanencia (PEP)
+170;170;Migración;Porcentaje de mujeres entre 18 y 29 años con permiso especial de permanencia (PEP)
+171;171;Migración;Porcentaje de mujeres entre 30 y 39 años con permiso especial de permanencia (PEP)
+172;172;Migración;Porcentaje de mujeres entre 40 y 49 años con permiso especial de permanencia (PEP)
+173;173;Migración;Porcentaje de mujeres entre 50 y 59 años con permiso especial de permanencia (PEP)
+174;174;Migración;Porcentaje de mujeres entre 60 y 69 años con permiso especial de permanencia (PEP)
+175;175;Migración;Porcentaje de mujeres de 70 o más años con permiso especial de permanencia (PEP)
+176;176;Migración;Población migrante proveniente de Venezuela que ha accedido a los permisos especiales de permanencia (PEP)
+177;177;Migración;Porcentaje de población regular que ha accedido a los permisos especiales de permanencia (PEP)
+178;178;Aseguramiento;Afiliados al régimen contributivo
+179;179;Aseguramiento;Afiliados al régimen subsidado
+180;180;Aseguramiento;Cobertura del régimen subsidiado
+181;181;Aseguramiento;Afiliados a regímenes especiales
+182;182;Aseguramiento;Población pobre no atendida - PPNA
+183;183;Aseguramiento;Afiliados al SGSSS
+184;184;Tasas y coberturas;Tasa de mortalidad (x cada 1.000 habitantes)
+185;185;Tasas y coberturas;Razón de mortalidad materna a 42 días
+186;186;Tasas y coberturas;Tasa de mortalidad infantil en menores de 1 año (x cada 1.000 nacidos vivos)
+187;187;Tasas y coberturas;Tasa de fecundidad (x cada 1.000 mujeres en edad fértil)
+188;188;Tasas y coberturas;Cobertura vacunación pentavalente en menores de 1 año
+189;189;Tasas y coberturas;Porcentaje de nacidos vivos con bajo peso al nacer
+190;190;Tasas y coberturas;Porcentaje de nacidos vivos con 4 o más consultas de control prenatal
+191;191;Tasas y coberturas;Porcentaje de nacidos vivos hijos de mujeres menores de 14 años
+192;192;Tasas y coberturas;Promedio de controles prenatales
+193;193;Tasas y coberturas;Porcentaje de nacidos vivos hijos de mujeres de 14 a 17 años
+194;194;Tasas y coberturas;Porcentaje de nacidos vivos hijos de mujeres de 18 a 26 años
+195;195;Tasas y coberturas;Tasa de fecundidad específica en mujeres de 10 a 14 años
+196;196;Tasas y coberturas;Tasa de fecundidad específica en mujeres de 10 a 19 años
+197;197;Tasas y coberturas;Tasa de mortalidad infantil en menores de 5 años
+198;198;Tasas y coberturas;Mortalidad en menores de 5 años por enfermedad diarréica aguda (EDA)
+199;199;Tasas y coberturas;Mortalidad en menores de 5 años por infección respiratoria aguda (IRA)
+200;200;Tasas y coberturas;Mortalidad por desnutrición en menores de 5 años
+201;201;Tasas y coberturas;Cobertura de vacunación DPT
+202;202;Tasas y coberturas;Cobertuna de vacunación triple viral
+203;203;Tasas y coberturas;Personas con discapacidad
+204;204;Tasas y coberturas;Motalidad asociada a VIH / SIDA
+205;205;Tasas y coberturas;Tasa ajustada de mortalidad por accidentes de transporte terrestre
+206;206;Tasas y coberturas;Tasa ajustada de mortalidad por accidentes de transporte terrestre - Hombres
+207;207;Tasas y coberturas;Tasa ajustada de mortalidad por accidentes de transporte terrestre - Mujeres
+208;208;Tasas y coberturas;Tasa de mortalidad prematura por enfermedades del sistema circulatorio
+209;209;Tasas y coberturas;Tasa de mortalidad prematura por diabetes mellitus
+210;210;Tasas y coberturas;Tasa ajustada de mortalidad por tumor maligno de la mama de la mujer
+211;211;Tasas y coberturas;Tasa ajustada de mortalidad por tumor maligno del cuello del útero
+212;212;Tasas y coberturas;Tasa ajustada de mortalidad por tumor maligno de la próstata
+213;213;Tasas y coberturas;Tasa ajustada de mortalidad por lesiones autoinfligidas intencionalmente (suicidios)
+214;214;Tasas y coberturas;Tasa ajustada de mortalidad por lesiones autoinfligidas intencionalmente (suicidios) - Hombre
+215;215;Tasas y coberturas;Tasa ajustada de mortalidad por lesiones autoinfligidas intencionalmente (suicidios) - Mujer
+216;216;Tasas y coberturas;Incidencia del VIH
+217;217;Tasas y coberturas;Incidencia del VIH - Hombre
+218;218;Tasas y coberturas;Incidencia del VIH - Mujer
+219;219;Tasas y coberturas;Incidencia de enfermedad de chagas
+220;220;Tasas y coberturas;Incidencia de la tuberculosis
+221;221;Tasas y coberturas;Tasa de fecundidad en mujeres entre 15 y 19 años
+222;222;Tasas y coberturas;Tasa de mortalidad neonatal
+223;223;Tasas y coberturas;Incidencia del dengue
+224;224;Tasas y coberturas;Mujeres con suministro de métodos de anticoncepción
+225;225;Tasas y coberturas;Tasa de negligencia y abandono
+226;226;Percepción;Satisfacción con el servicio de salud - Algo insatisfecho
+227;227;Percepción;Satisfacción con el servicio de salud - Algo satisfecho
+228;228;Percepción;Satisfacción con el servicio de salud - Muy insatisfecho
+229;229;Percepción;Satisfacción con el servicio de salud - Muy satisfecho
+230;230;Percepción;Satisfacción con el servicio de salud - Ni satisfecho ni insatisfecho
+231;231;Percepción;Satisfacción con el servicio de salud - No recibió servicio de salud
+232;232;Acceso a la educación;Cobertura bruta en transición
+233;233;Acceso a la educación;Cobertura bruta en educación primaria
+234;234;Acceso a la educación;Cobertura bruta en educación secundaria
+235;235;Acceso a la educación;Cobertura bruta en educación media
+236;236;Acceso a la educación;Cobertura bruta en educación básica
+237;237;Acceso a la educación;Cobertura bruta en educación - Total
+238;238;Acceso a la educación;Cobertura neta en transición
+239;239;Acceso a la educación;Cobertura neta en educación primaria
+240;240;Acceso a la educación;Cobertura neta en educación secundaria
+241;241;Acceso a la educación;Cobertura neta en educación media
+242;242;Acceso a la educación;Cobertura neta en educación básica
+243;243;Acceso a la educación;Cobertura neta en educación - Total
+244;244;Acceso a la educación;Cobertura en educación superior
+245;245;Acceso a la educación;Tasa de tránsito inmediato a la educación superior
+246;246;Permanencia y rezago;Tasa de deserción intra-anual del sector oficial en educación básica y media (Desde transición hasta once)
+247;247;Permanencia y rezago;Tasa de repitencia del sector oficial en educación básica y media (Desde transición hasta once)
+248;248;Logro;Años de educación personas de 15 y más años
+249;249;Logro;Tasa de analfabetismo de personas de 15 y más años
+250;250;Logro;Tasa de Analfabetismo (Censo)
+251;251;Logro;Tasa de Analfabetismo Urbana (Censo)
+252;252;Logro;Tasa de Analfabetismo Rural (Censo)
+253;253;Logro;Porcentaje de asistencia de 5 a 24 años (Censo)
+254;254;Logro;Porcentaje de asistencia de 5 a 24 años Urbana (Censo)
+255;255;Logro;Porcentaje de asistencia de 5 a 24 años Rural (Censo)
+256;256;Calidad;Puntaje promedio Pruebas Saber 11 - Matemáticas
+257;257;Calidad;Puntaje promedio Pruebas Saber 11 - Lectura crítica
+258;258;Acceso a la educación desagregado por sexo;Cobertura neta en educación básica  - Hombres
+259;259;Acceso a la educación desagregado por sexo;Cobertura neta en educación básica  - Mujeres
+260;260;Acceso a la educación desagregado por sexo;Cobertura neta en educación total - Hombres
+261;261;Acceso a la educación desagregado por sexo;Cobertura neta en educación total - Mujeres
+262;262;Vivienda y acceso a servicios públicos;Cobertura de energía eléctrica rural
+263;263;Vivienda y acceso a servicios públicos;Penetración de banda ancha
+264;264;Vivienda y acceso a servicios públicos;Cobertura de acueducto (Censo)
+265;265;Vivienda y acceso a servicios públicos;Cobertura de acueducto (REC)
+266;266;Vivienda y acceso a servicios públicos;Cobertura de alcantarillado (Censo)
+267;267;Vivienda y acceso a servicios públicos;Cobertura de alcantarillado (REC)
+268;268;Vivienda y acceso a servicios públicos;Déficit cualitativo de vivienda (Censo)
+269;269;Vivienda y acceso a servicios públicos;Déficit cuantitativo de vivienda (Censo)
+270;270;Vivienda y acceso a servicios públicos;Cobertura de acueducto urbana (REC)
+271;271;Vivienda y acceso a servicios públicos;Cobertura de acueducto rural (REC)
+272;272;Vivienda y acceso a servicios públicos;Cobertura de acueducto urbana (Censo)
+273;273;Vivienda y acceso a servicios públicos;Cobertura de acueducto rural (Censo)
+274;274;Vivienda y acceso a servicios públicos;Cobertura de alcantarillado urbana (REC)
+275;275;Vivienda y acceso a servicios públicos;Cobertura de alcantarillado rural (REC)
+276;276;Vivienda y acceso a servicios públicos;Cobertura de alcantarillado urbana (Censo)
+277;277;Vivienda y acceso a servicios públicos;Cobertura de alcantarillado rural (Censo)
+278;278;Vivienda y acceso a servicios públicos;Cobertura de aseo (REC)
+279;279;Vivienda y acceso a servicios públicos;Cobertura de aseo (Censo)
+280;280;Vivienda y acceso a servicios públicos;Cobertura de aseo urbana (REC)
+281;281;Vivienda y acceso a servicios públicos;Cobertura de aseo rural (REC)
+282;282;Vivienda y acceso a servicios públicos;Indígena Acueducto
+283;283;Vivienda y acceso a servicios públicos;Rom Acueducto
+284;284;Vivienda y acceso a servicios públicos;Raizal de San Andrés y Providencia Acueducto
+285;285;Vivienda y acceso a servicios públicos;Palenquero Acueducto
+286;286;Vivienda y acceso a servicios públicos;"Negro (a); mulato; afrocolombiano Acueducto"
+287;287;Vivienda y acceso a servicios públicos;Cobertura de Energía Eléctrica (Censo)
+288;288;Vivienda y acceso a servicios públicos;Cobertura de Energía Eléctrica Urbana (Censo)
+289;289;Vivienda y acceso a servicios públicos;Cobertura de Energía Eléctrica Rural (Censo)
+290;290;Vivienda y acceso a servicios públicos;Cobertura de Gas Natural (Censo)
+291;291;Vivienda y acceso a servicios públicos;Cobertura Gas Natural Urbano (Censo)
+292;292;Vivienda y acceso a servicios públicos;Cobertura de Gas Natural Rural (Censo)
+293;293;Vivienda y acceso a servicios públicos;Cobertura de Aseo Urbana (Censo)
+294;294;Vivienda y acceso a servicios públicos;Cobertura de Aseo Rural (Censo)
+295;295;Vivienda y acceso a servicios públicos;Cobertura de Internet (Censo)
+296;296;Vivienda y acceso a servicios públicos;Cobertura de Internet Urbana (Censo)
+297;297;Vivienda y acceso a servicios públicos;Cobertura de Internet Rural (Censo)
